@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: SunandaSamaddar/barsoom@0.0.5
+        uses: SunandaSamaddar/barsoom@0.0.6
         with:
           name: Samaddar
 
